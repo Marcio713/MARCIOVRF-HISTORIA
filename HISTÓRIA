@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>História do Canal Marcio VRF</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #1e90ff, #87cefa);
+            color: #fff;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            text-align: center;
+        }
+        .container {
+            background: rgba(0, 0, 0, 0.7);
+            border-radius: 15px;
+            padding: 20px;
+            max-width: 800px;
+            margin: 20px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+        }
+        h1 {
+            margin-bottom: 20px;
+            font-size: 32px;
+            color: #00ffcc;
+        }
+        p {
+            margin-bottom: 20px;
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        a {
+            display: block;
+            margin: 10px 0;
+            color: #00ffcc;
+            font-size: 20px;
+            font-weight: bold;
+            text-decoration: none;
+        }
+        a:hover {
+            color: #ffd700;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>História do Canal Marcio VRF</h1>
+        <p>
+            Oi, ainda bem que você clicou no link! Nesse site você vai entender um pouco mais sobre a história do meu canal e como foi que eu criei ele. Desde mais novo, eu já tive vários outros canais de jogos, só que não deu certo. Quando eu tinha 12 anos, decidi que ia pagar todos os vídeos do meu canal antigo e criar um novo canal onde eu iria postar todos os vídeos e realmente iria dar certo.
+        </p>
+        <p>
+            E foi o que eu fiz: apaguei todos os vídeos, todas as lives e todos os shorts. Fiz uma promessa a mim mesmo de que eu iria postar todos os dias. Quando não tivesse como, postaria no outro dia, mas nunca mais deixaria passar uma semana sem postar um vídeo. Estou dando a vida nesse canal porque eu espero que dê certo, já que o meu maior sonho sempre foi ser YouTuber, ser reconhecido e, além disso, conseguir ajudar minha família, seguidores e pessoas necessitadas.
+        </p>
+        <p>
+            Se você já se inscreveu no meu canal, agradeço de coração. Mesmo que seja deixando um like, vocês me ajudam bastante. A cada pessoa que se inscreve no meu canal, eu fico mais perto de alcançar o maior sonho da minha vida. Então, muito obrigado por ter lido essa história do meu canal. Espero que eu tenha esclarecido tudo!
+        </p>
+        <a href="https://youtube.com/@marciovrf?si=Q9KJb_VvMq6NqZVj" target="_blank">Se inscreva no meu canal do YouTube</a>
+        <a href="https://discord.gg/nWZxkPQb" target="_blank">Entre no meu grupo do Discord</a>
+        <a href="#" onclick="alert('Chave PIX: 00020101021126360014br.gov.bcb.pix0114+55629815003715204000053039865802BR5925MARCIOVINICIUSRODRIGUESDE6011Sete Lagoas61083570143462120508107895986304680C');">
+            Me ajude com uma doação
+        </a>
+    </div>
+    <footer>
+        © 2024 - Marcio VRF | Todos os direitos reservados
+    </footer>
+</body>
+</html>
